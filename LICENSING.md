@@ -18,3 +18,5 @@ For the teaching materials and synthetic datasets, credit **Flamong.com**, link 
 For the code, retain the MIT copyright and licence notice when distributing copies or substantial portions.
 
 Both licences allow commercial reuse. References and links to third-party courses, documentation, models, and other resources do not relicense those resources; their own terms apply.
+
+The Source Sans 3 font binaries in `tools/pdf-assets/` are third-party assets under the [SIL Open Font License 1.1](tools/pdf-assets/OFL.md). Their bundled licence governs those files. See the [font provenance notes](tools/pdf-assets/README.md).

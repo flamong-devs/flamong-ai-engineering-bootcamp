@@ -32,6 +32,8 @@ The default `ask` mode is **extractive evidence preview, not LLM generation**. I
 
 ## Follow the learning route
 
+The workbook is **edition 1.1**, revised 29 September 2026. Its 66 pages include the diagnostic, preparation route and common capstone rubric, with all 46 original fillable fields preserved. See [edition notes and publishing instructions](docs/WORKBOOK_EDITIONS.md).
+
 New learners should begin with [Your first bootcamp session](docs/learning/START_HERE.md): check the environment, take the [beginner diagnostic](docs/learning/DIAGNOSTIC.md), complete any preparation work, and record a learning plan. Then follow the [12-module build route](LABS.md) alongside the workbook.
 
 Use the [capstone assessment rubric](docs/learning/CAPSTONE_RUBRIC.md) to collect evidence as you learn. Both the offline and local-model routes can earn full credit; claims are assessed against the capabilities actually demonstrated.

@@ -1,0 +1,3 @@
+# Optional publishing dependencies; not needed for any core bootcamp command.
+pypdf==6.10.0
+reportlab==4.4.9
