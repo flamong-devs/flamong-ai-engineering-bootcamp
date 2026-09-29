@@ -1,0 +1,16 @@
+[
+  {
+    "id": "TX100",
+    "owner": "learner_a",
+    "status": "pending",
+    "amount_kobo": 250000,
+    "as_of": "2026-09-01T09:00:00Z"
+  },
+  {
+    "id": "TX200",
+    "owner": "learner_b",
+    "status": "completed",
+    "amount_kobo": 500000,
+    "as_of": "2026-09-01T09:00:00Z"
+  }
+]

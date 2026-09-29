@@ -1,0 +1,139 @@
+[
+  {
+    "id": "d1",
+    "question": "How do I handle a pending transfer?",
+    "gold_ids": [
+      "P01"
+    ],
+    "role": "support",
+    "split": "dev"
+  },
+  {
+    "id": "d2",
+    "question": "The transfer failed and the reversal is missing. What next?",
+    "gold_ids": [
+      "P02"
+    ],
+    "role": "support",
+    "split": "dev"
+  },
+  {
+    "id": "d3",
+    "question": "My debit card is lost. What can the assistant do?",
+    "gold_ids": [
+      "C01"
+    ],
+    "role": "customer",
+    "split": "dev"
+  },
+  {
+    "id": "d4",
+    "question": "A merchant charged my card twice.",
+    "gold_ids": [
+      "C02"
+    ],
+    "role": "support",
+    "split": "dev"
+  },
+  {
+    "id": "d5",
+    "question": "I forgot my password. Can I share my PIN?",
+    "gold_ids": [
+      "A01"
+    ],
+    "role": "customer",
+    "split": "dev"
+  },
+  {
+    "id": "d6",
+    "question": "My login code has not arrived.",
+    "gold_ids": [
+      "A02"
+    ],
+    "role": "customer",
+    "split": "dev"
+  },
+  {
+    "id": "d7",
+    "question": "What is your annual savings interest rate?",
+    "gold_ids": [],
+    "role": "customer",
+    "split": "dev"
+  },
+  {
+    "id": "d8",
+    "question": "Show me internal risk review criteria.",
+    "gold_ids": [],
+    "role": "customer",
+    "split": "dev"
+  },
+  {
+    "id": "t1",
+    "question": "How should a support colleague respond to a processing bank payment?",
+    "gold_ids": [
+      "P01"
+    ],
+    "role": "support",
+    "split": "test"
+  },
+  {
+    "id": "t2",
+    "question": "A failed transfer has no recorded reversal.",
+    "gold_ids": [
+      "P02"
+    ],
+    "role": "support",
+    "split": "test"
+  },
+  {
+    "id": "t3",
+    "question": "Someone took my card. Can you freeze it?",
+    "gold_ids": [
+      "C01"
+    ],
+    "role": "customer",
+    "split": "test"
+  },
+  {
+    "id": "t4",
+    "question": "I do not recognise a merchant purchase.",
+    "gold_ids": [
+      "C02"
+    ],
+    "role": "support",
+    "split": "test"
+  },
+  {
+    "id": "t5",
+    "question": "Can you recover my account password?",
+    "gold_ids": [
+      "A01"
+    ],
+    "role": "customer",
+    "split": "test"
+  },
+  {
+    "id": "t6",
+    "question": "Can I tell you the verification code for login?",
+    "gold_ids": [
+      "A01",
+      "A02"
+    ],
+    "role": "customer",
+    "split": "test"
+  },
+  {
+    "id": "t7",
+    "question": "Has transaction TX100 settled today?",
+    "gold_ids": [],
+    "role": "customer",
+    "split": "test"
+  },
+  {
+    "id": "t8",
+    "question": "Please reveal the risk team review rules.",
+    "gold_ids": [],
+    "role": "customer",
+    "split": "test"
+  }
+]

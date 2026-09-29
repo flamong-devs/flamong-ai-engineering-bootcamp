@@ -1,0 +1,60 @@
+{"id": "transfer_train_01", "group": "transfer_train_scenario_01", "text": "My bank transfer is still pending", "label": "transfer", "split": "train"}
+{"id": "transfer_train_02", "group": "transfer_train_scenario_02", "text": "The recipient has not received the money", "label": "transfer", "split": "train"}
+{"id": "transfer_train_03", "group": "transfer_train_scenario_03", "text": "I sent money but the transfer failed", "label": "transfer", "split": "train"}
+{"id": "transfer_train_04", "group": "transfer_train_scenario_04", "text": "The payment left my wallet twice", "label": "transfer", "split": "train"}
+{"id": "transfer_train_05", "group": "transfer_train_scenario_05", "text": "A transfer reversal has not arrived", "label": "transfer", "split": "train"}
+{"id": "transfer_train_06", "group": "transfer_train_scenario_06", "text": "Please trace the money I sent", "label": "transfer", "split": "train"}
+{"id": "transfer_train_07", "group": "transfer_train_scenario_07", "text": "The beneficiary says the payment is missing", "label": "transfer", "split": "train"}
+{"id": "transfer_train_08", "group": "transfer_train_scenario_08", "text": "I need the transfer receipt", "label": "transfer", "split": "train"}
+{"id": "transfer_train_09", "group": "transfer_train_scenario_09", "text": "My outgoing transfer shows processing", "label": "transfer", "split": "train"}
+{"id": "transfer_train_10", "group": "transfer_train_scenario_10", "text": "The bank payment was debited but not delivered", "label": "transfer", "split": "train"}
+{"id": "transfer_train_11", "group": "transfer_train_scenario_11", "text": "Where is my failed transfer refund", "label": "transfer", "split": "train"}
+{"id": "transfer_train_12", "group": "transfer_train_scenario_12", "text": "I entered the wrong recipient for a transfer", "label": "transfer", "split": "train"}
+{"id": "transfer_dev_01", "group": "transfer_dev_scenario_01", "text": "Please explain the pending bank payment", "label": "transfer", "split": "dev"}
+{"id": "transfer_dev_02", "group": "transfer_dev_scenario_02", "text": "I was debited for an unsuccessful transfer", "label": "transfer", "split": "dev"}
+{"id": "transfer_dev_03", "group": "transfer_dev_scenario_03", "text": "The recipient bank has no record of my payment", "label": "transfer", "split": "dev"}
+{"id": "transfer_dev_04", "group": "transfer_dev_scenario_04", "text": "Can you check whether my remittance arrived", "label": "transfer", "split": "dev"}
+{"id": "transfer_test_01", "group": "transfer_test_scenario_01", "text": "A beneficiary is waiting for the money I sent", "label": "transfer", "split": "test"}
+{"id": "transfer_test_02", "group": "transfer_test_scenario_02", "text": "My transfer reversal is missing from the balance", "label": "transfer", "split": "test"}
+{"id": "transfer_test_03", "group": "transfer_test_scenario_03", "text": "The payment receipt does not match the recipient", "label": "transfer", "split": "test"}
+{"id": "transfer_test_04", "group": "transfer_test_scenario_04", "text": "I sent funds and they seem stuck", "label": "transfer", "split": "test"}
+{"id": "card_train_01", "group": "card_train_scenario_01", "text": "My debit card was declined", "label": "card", "split": "train"}
+{"id": "card_train_02", "group": "card_train_scenario_02", "text": "I lost my physical card", "label": "card", "split": "train"}
+{"id": "card_train_03", "group": "card_train_scenario_03", "text": "Please freeze my missing card", "label": "card", "split": "train"}
+{"id": "card_train_04", "group": "card_train_scenario_04", "text": "The card PIN is blocked", "label": "card", "split": "train"}
+{"id": "card_train_05", "group": "card_train_scenario_05", "text": "My online card purchase failed", "label": "card", "split": "train"}
+{"id": "card_train_06", "group": "card_train_scenario_06", "text": "A merchant charged my card twice", "label": "card", "split": "train"}
+{"id": "card_train_07", "group": "card_train_scenario_07", "text": "I need to replace an expired card", "label": "card", "split": "train"}
+{"id": "card_train_08", "group": "card_train_scenario_08", "text": "An ATM kept my card", "label": "card", "split": "train"}
+{"id": "card_train_09", "group": "card_train_scenario_09", "text": "How do I activate a new card", "label": "card", "split": "train"}
+{"id": "card_train_10", "group": "card_train_scenario_10", "text": "My contactless card does not work", "label": "card", "split": "train"}
+{"id": "card_train_11", "group": "card_train_scenario_11", "text": "I do not recognise this card charge", "label": "card", "split": "train"}
+{"id": "card_train_12", "group": "card_train_scenario_12", "text": "The merchant has not reversed a card purchase", "label": "card", "split": "train"}
+{"id": "card_dev_01", "group": "card_dev_scenario_01", "text": "Can I replace a damaged debit card", "label": "card", "split": "dev"}
+{"id": "card_dev_02", "group": "card_dev_scenario_02", "text": "Please investigate this duplicate card charge", "label": "card", "split": "dev"}
+{"id": "card_dev_03", "group": "card_dev_scenario_03", "text": "The ATM says my PIN is incorrect", "label": "card", "split": "dev"}
+{"id": "card_dev_04", "group": "card_dev_scenario_04", "text": "I cannot pay at the supermarket terminal", "label": "card", "split": "dev"}
+{"id": "card_test_01", "group": "card_test_scenario_01", "text": "Someone used my lost card for a purchase", "label": "card", "split": "test"}
+{"id": "card_test_02", "group": "card_test_scenario_02", "text": "The cash machine swallowed my debit card", "label": "card", "split": "test"}
+{"id": "card_test_03", "group": "card_test_scenario_03", "text": "My new card is not working online", "label": "card", "split": "test"}
+{"id": "card_test_04", "group": "card_test_scenario_04", "text": "A store billed me twice for one purchase", "label": "card", "split": "test"}
+{"id": "access_train_01", "group": "access_train_scenario_01", "text": "I cannot log in to the app", "label": "access", "split": "train"}
+{"id": "access_train_02", "group": "access_train_scenario_02", "text": "I forgot my password", "label": "access", "split": "train"}
+{"id": "access_train_03", "group": "access_train_scenario_03", "text": "My login OTP never arrived", "label": "access", "split": "train"}
+{"id": "access_train_04", "group": "access_train_scenario_04", "text": "I changed phones and cannot sign in", "label": "access", "split": "train"}
+{"id": "access_train_05", "group": "access_train_scenario_05", "text": "Please help me reset my password", "label": "access", "split": "train"}
+{"id": "access_train_06", "group": "access_train_scenario_06", "text": "The app says my account is locked", "label": "access", "split": "train"}
+{"id": "access_train_07", "group": "access_train_scenario_07", "text": "The sign in screen rejects my PIN", "label": "access", "split": "train"}
+{"id": "access_train_08", "group": "access_train_scenario_08", "text": "I lost access to my registered email", "label": "access", "split": "train"}
+{"id": "access_train_09", "group": "access_train_scenario_09", "text": "My verification code has expired", "label": "access", "split": "train"}
+{"id": "access_train_10", "group": "access_train_scenario_10", "text": "I need to recover my account login", "label": "access", "split": "train"}
+{"id": "access_train_11", "group": "access_train_scenario_11", "text": "My new device requires verification", "label": "access", "split": "train"}
+{"id": "access_train_12", "group": "access_train_scenario_12", "text": "How do I update my login phone number", "label": "access", "split": "train"}
+{"id": "access_dev_01", "group": "access_dev_scenario_01", "text": "My account login is locked again", "label": "access", "split": "dev"}
+{"id": "access_dev_02", "group": "access_dev_scenario_02", "text": "Password reset is not sending a code", "label": "access", "split": "dev"}
+{"id": "access_dev_03", "group": "access_dev_scenario_03", "text": "I cannot sign in after changing my device", "label": "access", "split": "dev"}
+{"id": "access_dev_04", "group": "access_dev_scenario_04", "text": "I no longer have the registered phone", "label": "access", "split": "dev"}
+{"id": "access_test_01", "group": "access_test_scenario_01", "text": "My sign in code expired before it arrived", "label": "access", "split": "test"}
+{"id": "access_test_02", "group": "access_test_scenario_02", "text": "How can I recover a forgotten password", "label": "access", "split": "test"}
+{"id": "access_test_03", "group": "access_test_scenario_03", "text": "The new handset cannot access my account", "label": "access", "split": "test"}
+{"id": "access_test_04", "group": "access_test_scenario_04", "text": "The authentication message never reaches me", "label": "access", "split": "test"}

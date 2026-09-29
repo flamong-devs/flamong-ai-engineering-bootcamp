@@ -1,0 +1,24 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Environment files and credentials
+.env
+.env.*
+*.env
+.envrc
+*.pem
+*.key
+
+# Local reports and OS files
+reports/*.json
+.DS_Store

@@ -1,0 +1,2 @@
+# Core labs use only the Python standard library. Python 3.10+.
+# Optional: install Ollama separately and choose a model your machine can run.

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "P01",
+    "title": "Pending transfers",
+    "text": "Before advising a customer about a pending transfer, check its live status with the transaction tool. A support policy is not proof that an individual transfer succeeded. Never promise a completion time without verified evidence.",
+    "status": "current",
+    "roles": [
+      "support",
+      "customer"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  },
+  {
+    "id": "P02",
+    "title": "Failed transfers",
+    "text": "For a failed transfer, capture the transaction reference and check whether a reversal is recorded. If no reversal is visible, escalate to the payments team. This fictional policy gives no automatic refund deadline.",
+    "status": "current",
+    "roles": [
+      "support",
+      "customer"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  },
+  {
+    "id": "C01",
+    "title": "Lost or stolen card",
+    "text": "For a lost or stolen card, direct the customer to the card controls in the app and recommend contacting the support team. This training assistant has no tool to freeze a card or move money.",
+    "status": "current",
+    "roles": [
+      "support",
+      "customer"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  },
+  {
+    "id": "C02",
+    "title": "Card purchase dispute",
+    "text": "For an unrecognised card purchase or a duplicate merchant charge, collect the reference and escalate the dispute. Do not promise the outcome of an investigation.",
+    "status": "current",
+    "roles": [
+      "support",
+      "customer"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  },
+  {
+    "id": "A01",
+    "title": "Login and password recovery",
+    "text": "For forgotten passwords or sign in problems, use the official password recovery flow. Never request a password, PIN or one-time code in a support chat.",
+    "status": "current",
+    "roles": [
+      "support",
+      "customer"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  },
+  {
+    "id": "A02",
+    "title": "Verification code delivery",
+    "text": "If a login verification code has not arrived, check the registered contact channel and use the official retry flow. Never ask the customer to reveal the code to the assistant.",
+    "status": "current",
+    "roles": [
+      "support",
+      "customer"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  },
+  {
+    "id": "R01",
+    "title": "Internal risk escalation",
+    "text": "Internal risk review criteria are restricted to the risk team. Support agents may escalate suspicious cases without exposing investigation details to customers.",
+    "status": "current",
+    "roles": [
+      "risk"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  },
+  {
+    "id": "P00",
+    "title": "Archived transfer policy",
+    "text": "Old training policy: all pending transfers complete within five minutes. This document is archived and must not be retrieved as current guidance.",
+    "status": "archived",
+    "roles": [
+      "support",
+      "customer"
+    ],
+    "version": "2026-09-01",
+    "source": "fictional-bootcamp-policy"
+  }
+]
