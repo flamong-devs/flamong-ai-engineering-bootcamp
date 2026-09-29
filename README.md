@@ -8,7 +8,7 @@ Python 3.10 or later. Core commands require no third-party Python packages and n
 Clone the public repository and open a terminal in its root:
 
 ```sh
-git clone https://github.com/flamong-dev/flamong-ai-engineering-bootcamp.git
+git clone https://github.com/flamong-devs/flamong-ai-engineering-bootcamp.git
 cd flamong-ai-engineering-bootcamp
 ```
 

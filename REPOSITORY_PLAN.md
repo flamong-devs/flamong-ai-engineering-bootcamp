@@ -1,5 +1,5 @@
 # Shared public repository
-Repository: [`flamong-dev/flamong-ai-engineering-bootcamp`](https://github.com/flamong-dev/flamong-ai-engineering-bootcamp).
+Repository: [`flamong-devs/flamong-ai-engineering-bootcamp`](https://github.com/flamong-devs/flamong-ai-engineering-bootcamp).
 Visibility: **public**. Every other repository's visibility remains unchanged.
 
 The starter kit is extracted directly into the repository root. The workbook is included at [`docs/AI_Engineering_Bootcamp_Flamong.pdf`](docs/AI_Engineering_Bootcamp_Flamong.pdf). No software licence has been selected; ask the repository owner before adding one.
