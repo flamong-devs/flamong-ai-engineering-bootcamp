@@ -75,4 +75,8 @@ The supplied classifier gets 9/12 correct on dev: 75%, compared with the balance
 Create `reports/` if your unzip tool omits an empty directory. Save command output, model/settings, prompt version, corpus version and a code commit ID. Keep dev and test roles distinct. Do not add evaluation questions to training to improve a score. Use `--split test` only after freezing the candidate, and obtain a fresh set if you already tuned against it.
 
 ## Sharing and credits
-These exercises and fictional data were prepared for Flamong's bootcamp. They are independent teaching material, not Stanford assignment solutions or an official Stanford course. Course and documentation references are in the PDF. This repository is public. No software licence has been selected; the repository owner will decide the licence separately.
+These exercises and fictional data were prepared for Flamong's bootcamp. They are independent teaching material, not Stanford assignment solutions or an official Stanford course. Course and documentation references are in the PDF. This repository is public.
+
+## Licence
+
+Code and software configuration are licensed under [MIT](LICENSE). The workbook PDF, lesson materials, prose documentation, and synthetic datasets are licensed under [CC BY 4.0](LICENSE-CC-BY-4.0), with attribution to Flamong.com. Both permit commercial reuse. See [Licensing and attribution](LICENSING.md) for file coverage and attribution guidance.

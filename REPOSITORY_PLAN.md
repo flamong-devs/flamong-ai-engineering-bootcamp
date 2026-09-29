@@ -2,7 +2,7 @@
 Repository: [`flamong-devs/flamong-ai-engineering-bootcamp`](https://github.com/flamong-devs/flamong-ai-engineering-bootcamp).
 Visibility: **public**. Every other repository's visibility remains unchanged.
 
-The starter kit is extracted directly into the repository root. The workbook is included at [`docs/AI_Engineering_Bootcamp_Flamong.pdf`](docs/AI_Engineering_Bootcamp_Flamong.pdf). No software licence has been selected; ask the repository owner before adding one.
+The starter kit is extracted directly into the repository root. The workbook is included at [`docs/AI_Engineering_Bootcamp_Flamong.pdf`](docs/AI_Engineering_Bootcamp_Flamong.pdf). The repository owner approved MIT for code and software configuration, and CC BY 4.0 for the workbook, teaching materials, prose documentation, and synthetic datasets. See [Licensing and attribution](LICENSING.md).
 
 Recommended collaboration setup: protect the main branch and use pull requests with one reviewer. Branch protection is a recommendation, not a claim that it has been configured.
 
