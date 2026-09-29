@@ -1,6 +1,8 @@
 # Build route
 Read the corresponding workbook module, run the baseline, then make and explain your own change. A passing test is evidence about that test, not proof of complete safety or correctness.
 
+Before Module 1, complete [Your first bootcamp session](docs/learning/START_HERE.md) and the diagnostic preparation it recommends. Save evidence after every module in your learning plan. Use the [lesson template](docs/learning/LESSON_TEMPLATE.md) for a consistent hypothesis, baseline, experiment, and submission record.
+
 | Module | Starting point | Learner contribution |
 |---|---|---|
 | 1 | `audit()` and JSONL | Dataset contract and annotation guide |
@@ -10,11 +12,17 @@ Read the corresponding workbook module, run the baseline, then make and explain 
 | 5 | `Retriever.vector()` | Cosine similarity and representation comparison |
 | 6 | `bigram_demo()` | Count model inspection and reviewed SFT examples |
 | 7 | `validate_answer()` | Prompt comparison and validation cases |
-| 8 | `Retriever.search()` | Chunking and k comparison; optional dense retrieval |
+| 8 | `Retriever.search()` | [Guided retrieval comparison and paragraph chunking](docs/learning/MODULE_08_RETRIEVAL.md); optional dense retrieval |
 | 9 | `llm.ask()` | Real-model RAG run if available, claim-level review |
 | 10 | `execute_tool()` and `llm.agent()` | Trace analysis, malformed-argument and injection cases |
-| 11 | Tests and reports | Release gates, timing, cost and rollback plan |
-| 12 | Frozen system | Independent final evaluation and capstone defence |
+| 11 | Tests and reports | Release gates, timing, cost and rollback plan using the [capstone evidence requirements](docs/learning/CAPSTONE_RUBRIC.md) |
+| 12 | Frozen system | Independent final evaluation and defence assessed with the [capstone rubric](docs/learning/CAPSTONE_RUBRIC.md) |
+
+## Evidence to retain
+
+For each module, save the command and starting commit, your prediction, the observed result, your explanation, and one limitation. Include denominators when reporting rates. Mark optional or untested capabilities explicitly. Keep development experiments separate from the frozen final evaluation.
+
+Module 8 is currently the completed guided lesson example. The other modules use the workbook and the build tasks above; facilitators can expand them with the template.
 
 ## Stretch sequence
 1. Add paragraph chunking while preserving document/version/permission metadata.

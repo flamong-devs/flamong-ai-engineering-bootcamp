@@ -30,6 +30,14 @@ Use `python3` or `py -3` if that is how your machine names Python. Run commands 
 
 The default `ask` mode is **extractive evidence preview, not LLM generation**. It returns permitted current source passages so you can inspect retrieval without downloading a model.
 
+## Follow the learning route
+
+New learners should begin with [Your first bootcamp session](docs/learning/START_HERE.md): check the environment, take the [beginner diagnostic](docs/learning/DIAGNOSTIC.md), complete any preparation work, and record a learning plan. Then follow the [12-module build route](LABS.md) alongside the workbook.
+
+Use the [capstone assessment rubric](docs/learning/CAPSTONE_RUBRIC.md) to collect evidence as you learn. Both the offline and local-model routes can earn full credit; claims are assessed against the capabilities actually demonstrated.
+
+Facilitators can use the [lesson template](docs/learning/LESSON_TEMPLATE.md) to develop guided sessions. [Module 8: retrieval](docs/learning/MODULE_08_RETRIEVAL.md) is the first completed example, with runnable commands, starter results, development probes, and a chunking extension.
+
 ## Optional real generation with Ollama
 Install Ollama separately using its official instructions: https://docs.ollama.com/quickstart . Select and install a model that fits your machine and usage rights. This kit does not download a model or start the service. Model downloads and inference can require substantial storage/RAM. The core baseline remains available without them.
 
@@ -58,6 +66,7 @@ The adapter talks only to `http://127.0.0.1:11434/api/chat`, sends `stream=false
 - `tests/test_core.py`: regression and boundary tests.
 - `LABS.md`: the incremental build route.
 - `REPOSITORY_PLAN.md`: suggested GitHub setup and collaboration workflow.
+- `docs/learning/`: onboarding, diagnostic and separate answers, lesson template, guided retrieval lesson, and capstone rubric.
 
 ## Expected initial results
 The supplied classifier gets 9/12 correct on dev: 75%, compared with the balanced majority baseline of 33.3%. Its card recall is 0.50. It misses an ATM PIN example, a supermarket-terminal example and a remittance paraphrase. The six answerable dev retrieval questions all have a relevant passage in the top three in the supplied baseline. These are tiny synthetic demonstrations, not evidence of real-world performance. No claims are made about the final test score before learners freeze their candidate.

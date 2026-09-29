@@ -6,6 +6,13 @@ The starter kit is extracted directly into the repository root. The workbook is 
 
 Recommended collaboration setup: protect the main branch and use pull requests with one reviewer. Branch protection is a recommendation, not a claim that it has been configured.
 
+## Learning materials
+
+- Begin with the [setup and preparation guide](docs/learning/START_HERE.md) and [diagnostic](docs/learning/DIAGNOSTIC.md); consult the separate answer guide after the first attempt.
+- Expand module sessions using the [lesson template](docs/learning/LESSON_TEMPLATE.md). The [guided retrieval lesson](docs/learning/MODULE_08_RETRIEVAL.md) demonstrates the expected format.
+- Review final projects with the [capstone rubric](docs/learning/CAPSTONE_RUBRIC.md), including independently held cases, reproducibility, and explicit claim boundaries.
+- These Markdown guides supplement the original workbook PDF. The PDF is not regenerated from them; a shared-source publishing workflow remains future work.
+
 ## Collaboration
 - Each learner creates a branch such as `learner-name/module-03` and submits a small change plus evidence.
 - Pair review rotates roles: implementer, reviewer and evaluator. Each person explains their own work.
